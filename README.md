@@ -9,6 +9,5 @@
 - I'm also very skilled in using tools in adobe photoshop and illustrator to crate various graphic images .
 
 ## Let's Connect!
-- Here is my [icons/linkedin/linkedin-original.svg] [www.linkedin.com/in/
-david-agbenyegah-bieku-9305b93b9] Profile.
+- Here is my  [www.linkedin.com/in/david-agbenyegah-bieku-9305b93b9]Profile.
 - Feel free to explor my repository and dont hesitate to reach out. Happy Coding .
